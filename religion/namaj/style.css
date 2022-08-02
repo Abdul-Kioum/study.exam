@@ -1,0 +1,299 @@
+/* HOME START */
+.head-54 {
+    background: green;
+}
+.s {
+    font-size: 28px;
+    color: #E795B3;
+    font-style: cursive;
+}
+.t {
+    font-style: cursive;
+    color: cyan;
+}
+.u {
+    font-style: cursive;
+    color: orange;
+}
+.d {
+    font-style: cursive;
+    color:;
+}
+.y {
+    font-style: cursive;
+    color: yellow;
+}
+.o {
+    font-style: sans-serif;
+    color: white;
+}
+.e {
+    font-style: fantasy;
+    color: cyan;
+    font-size: 26px;
+}
+.x {
+    font-style: sans-serif;
+    color: #eee;
+}
+.a {
+    font-style: sans-serif;
+    color: #B0C4DE;
+}
+.m {
+    font-style: sans-serif;
+    color:;
+}
+#website-name {
+    color: #7FFF9B;
+    font-familly: none;
+    font-size: 22px;
+    margin: auto;
+}
+#container {
+    background: #DDC;
+    height: auto;
+    margin-top: px;
+}
+.container-fluid {
+    background: black;
+
+}
+.container-fluid .fas {
+    font-size: 25px;
+}
+.container-fluid {
+    margin-top: -19px;
+}
+#home {
+    position: sticky;
+    top: 10px;
+}
+.navbar-toggler {
+    background: silver;
+    font-size: 13px;
+    margin-top: 3;
+}
+.navbar {
+    height: 20px;
+}
+.navbar-nav {
+    background: black;
+}
+.hhh {
+    color: white;
+    background: green;
+    border-radius: 5px;
+    width: 100px;
+    font-size: 14px;
+}
+.fas {
+    color: silver;
+}
+.fa-home {
+    margin-top: 6px;
+}
+.dropdown-menu {
+    background: green;
+}
+/* HOME END */
+
+/* NOTIC START */
+.tlabukk {
+    margin-left: 15px;
+    margin-right: 15px;
+    background: #B0C4DE;
+    color: #191970;
+    border-radius: 3px;
+    font-size: 14px;
+    height: 19px;
+}
+.tlabukk {
+    position: sticky;
+    top: 72px;
+}
+/* NOTIC END */
+
+/* FOOTER START */
+
+.menu {
+    margin-top:500px;
+}
+.last_menu {}
+.last_menu {
+    background: white;
+    height: 210px;
+    border-top: 3px solid #826;
+}
+.last_menu a {
+    text-decoration: none;
+}
+
+.fa-facebook {
+    position: absolute;
+    margin-left: -70px;
+    margin-top: 80px;
+    font-size: 20px;
+    color: #4267B2;
+}
+.fa-youtube {
+    position: absolute;
+    margin-left: -30px;
+    margin-top: 80px;
+    font-size: 20px;
+    color: red;
+}
+.fa-google {
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 80px;
+    font-size: 20px;
+    color: blue;
+}
+.fa-instagram {
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 80px;
+    font-size: 20px;
+    color: white;
+
+}
+.fa-instagram {
+    background: linear-gradient(#405DE6, #5851DB,#833AB4, #C13584, #E1306C, #FD1D1D, #F56040, #F77737, #FCAF45, #FFDC80);
+    border-radius: 5px;
+    width: 20px;
+
+    max-height: 25px;
+
+
+}
+.fa-envelope-open-text {
+    position: absolute;
+    margin-left: 20px;
+    color: #333;
+    margin-top: 48px;
+    font-size: 12px;
+}
+
+.Contact {
+    position: absolute;
+    margin-top: 18px;
+    left: 17px;
+    font-size: 15px;
+    color: black;
+}
+.gmail {
+    position: absolute;
+    margin-top: 45px;
+    margin-left: 40px;
+    font-size: 12px;
+    color: black;
+}
+.copy {
+    text-align: center;
+    color: silver;
+    margin-top: 130px;
+    display: block;
+    font-size: 8px;
+}
+/* FOOTER END */
+
+.notic {
+    color: #000033;
+    background: white;
+    margin-top: -8px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/*OUR PLANS SECTION CSS END*/
+
+
+
+
+/*❤️❤️❤️❤️❤️❤️❤️❤  box-shadow: 0 2px 4px cyan️❤️❤️❤️❤️❤️❤️❤️*/
+
+div.scrollmenutk {
+    background-color: black;
+    overflow: auto;
+    white-space: nowrap;
+    height: 23px;
+    box-shadow: 0 2px 8px #333;
+}
+
+div.scrollmenutk a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 0 8px;
+    text-decoration: none;
+    border-right: 1px solid #d4d4d4;
+    font-size: 14px;
+    line-height: 20px
+}
+
+div.scrollmenutk {
+    margin-top: 16px;
+}
+
+.scrollmenutk a:hover{
+    color: teal;
+}
+
+/* Islamic page */
+#t-2-k {
+    background: #CCC;
+    border: 1.5px solid #eee;
+    height: 27px;
+    margin-left: 15px;
+    margin-right: 15px;
+    border-radius: 5px;
+}
+
+div#t-2-k a {
+    text-decoration: none;
+    color: black;
+    margin-left: 5px;
+
+}
+.t-3-k {
+    font-size: 17px;
+}
+.t-img-k {
+    height: 180px;
+    width: 300px;
+    padding-top: 30px;
+}
+.t-5-k {
+    font-size: 24px;
+    margin-left: 5px;
+}
+.t-6-k {
+    padding: 2px;
+    margin-left: 18px;
+    margin-right: 18px;
+    color: #387;
+}
+.t-8-k {
+    margin-left: 15px;
+    margin-right: 15px;
+    font-size: 16px;
+}
+.t-9-k {
+    margin: auto;
+    color: teal;
+    font-size: 20px;
+}
+.date{
+    margin-left: 18px;
+    font-size: 10px;
+}
